@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **Cyber Security, Ethical Hacking**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/abhishek-mathpati)
 - 💬 Ask me about **Mobile app development, Cybersecurity fundamentals**
-- 📫 How to reach me: **abhishekmathpati29@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1TBEodawmZqcsg2DtlJPOm4wQfdvb1H_F/view?usp=drive_link)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/abhishek-m-b654b2296)
+- 📄 Know about my experiences [here](www.linkedin.com/in/abhishek-m-b654b2296)
 - ⚡ Fun fact: **"Programmers prefer dark themes because light attracts bugs!"**
 
 <hr>
